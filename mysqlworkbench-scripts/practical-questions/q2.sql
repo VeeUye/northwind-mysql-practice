@@ -1,0 +1,1 @@
+SELECT * FROM products WHERE list_price > 10 ORDER BY list_price DESC;

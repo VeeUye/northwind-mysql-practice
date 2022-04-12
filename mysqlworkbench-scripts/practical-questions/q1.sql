@@ -1,0 +1,1 @@
+SELECT * FROM products WHERE list_price<standard_cost
